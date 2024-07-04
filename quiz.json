@@ -1,0 +1,106 @@
+{
+  "shortDescription": "Test your knowledge of animals with this quiz.",
+  "questions": [
+    {
+      "question": "What is the largest mammal?",
+      "answers": ["Whale", "Elephant", "Shark"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which bird can't fly?",
+      "answers": ["Penguin", "Eagle", "Owl"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What animal is the fastest?",
+      "answers": ["Cheetah", "Rabbit", "Horse"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which animal has a trunk?",
+      "answers": ["Elephant", "Lion", "Zebra"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What animal is known as man's best friend?",
+      "answers": ["Dog", "Cat", "Fish"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which reptile has no legs?",
+      "answers": ["Snake", "Lizard", "Croc"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What do bees produce?",
+      "answers": ["Honey", "Milk", "Silk"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which animal is a marsupial?",
+      "answers": ["Koala", "Elephant", "Tiger"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which fish is known for its teeth?",
+      "answers": ["Piranha", "Salmon", "Shark"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a baby cat called?",
+      "answers": ["Kitten", "Pup", "Calf"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which bird is known for its wisdom?",
+      "answers": ["Owl", "Crow", "Sparrow"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which animal lives in a hive?",
+      "answers": ["Bee", "Ant", "Spider"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the tallest animal?",
+      "answers": ["Giraffe", "Elephant", "Lion"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which animal is known for its quills?",
+      "answers": ["Porcupine", "Rabbit", "Deer"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the largest bird?",
+      "answers": ["Ostrich", "Eagle", "Parrot"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which animal has a mane?",
+      "answers": ["Lion", "Tiger", "Bear"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What do cows produce?",
+      "answers": ["Milk", "Honey", "Wool"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the main food of pandas?",
+      "answers": ["Bamboo", "Fish", "Leaves"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which animal is known for its hump?",
+      "answers": ["Camel", "Horse", "Cow"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which bird is colorful and can mimic?",
+      "answers": ["Parrot", "Sparrow", "Crow"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
+
